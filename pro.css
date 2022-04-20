@@ -1,0 +1,33 @@
+h1{
+    background-color: black;
+    color: white;
+    font-style: inherit;
+    font-weight: bolder;
+    font-size: 300%;
+    margin-top: 6mm;
+    margin-bottom: 3mm;
+
+    
+}
+h2{
+    background-color: rgb(124, 8, 232);
+    color: aliceblue;
+    text-align: center;
+    font-size: 225%;
+    margin-top: 3mm;
+    margin-bottom: 3mm;
+    font-style: italic;font-weight: lighter;
+
+}
+h3{
+    background-color: rgb(134, 201, 237);
+    text-align: end;
+    font-size: 175%;
+    font-style: normal;
+    text-decoration: underline;
+    margin-top: 3mm;
+    font-weight: lighter;
+}
+span{
+    color: aqua;
+}
